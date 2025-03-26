@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenny-Wouters
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#, Blazor, Cloud Computing
+- 🌱 I’m currently learning C# .Net, Angular, Blazor, containerization, CI/CD...
 - 📫 How to reach me ?
 
 <!---
